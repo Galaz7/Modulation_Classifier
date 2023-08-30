@@ -1,4 +1,4 @@
-# Modulation Classification
+# Modulation Classifier
 <div align="center">
 <p>
 <img src="https://www.sintef.no/contentassets/151f67a6a457473eabb34c5de9e022ea/shutterstock_1236109669.jpg?width=1024&height=320&mode=crop&quality=80" 
